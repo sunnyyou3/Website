@@ -34,37 +34,38 @@ function Image({ id, containerRef }) {
   const ref = useRef(null);
   const { scrollYProgress } = useScroll({ target: ref, container: containerRef, layoutEffect: false });
   const y = useParallax(scrollYProgress, 300);
+  const x = useParallax(scrollYProgress, 300); // Change to x for horizontal movement
 
 
   return (
     <section style={{ position: 'relative' }}>
-      <div ref={ref}>
-        <img className='projectIMG' src={require(`./../Images/${id}.jpg`)} alt="A London skyscraper" />
+      <div style={{ backgroundColor: 'black'}} ref={ref}>
+        <motion.img style={{ x }} className='projectIMG' src={require(`./../Images/${id}.jpg`)} alt="A London skyscraper" />
       </div>
-      <div style={{ backgroundColor: 'red'}} >
-        <motion.h2 style={{ y }}>{`#00${id}  ${projectTitle[id]}  `}</motion.h2>
-        <motion.h3 style={{ y, maxWidth:"200px"}}>{`${projectText[id]}`}</motion.h3>
+      <div style={{ backgroundColor: 'black'}} >
+        <motion.h2 style={{ y, color: 'white'}}>{`#00${id}  ${projectTitle[id]}  `}</motion.h2>
+        <motion.h3 style={{ y, maxWidth:"200px", color: 'white'}}>{`${projectText[id]}`}</motion.h3>
       </div>
     </section>
   );
 }
 
-function Projects() {
-  const testRef = useRef(null);
-  const { scrollYProgress } = useScroll({ container: testRef });
-  const scaleX = useSpring(scrollYProgress, {
-    stiffness: 100,
-    damping: 30,
-    restDelta: 0.001,
-  });
-  return (
-    <Box id="test" ref={testRef} style={{ backgroundColor: 'red', position: 'relative'}} sx={{'&::-webkit-scrollbar': { display: 'none' }}}>
-      {[1, 2, 3, 4, 5].map((image) => (
-        <Image id={image} key={image} containerRef={testRef} style={{ scaleX }}/>
-      ))}
-      <motion.div className="progress" style={{ scaleX }} />
-    </Box>
-  );
+function Gallery() {
+    const testRef = useRef(null);
+    const { scrollYProgress } = useScroll({ container: testRef });
+    const scaleX = useSpring(scrollYProgress, {
+        stiffness: 100,
+        damping: 30,
+        restDelta: 0.001,
+    });
+    return (
+        <Box id="test" ref={testRef} style={{ backgroundColor: 'black', position: 'relative'}} sx={{'&::-webkit-scrollbar': { display: 'none' }}}>
+        {[1, 2, 3, 4, 5].map((image) => (
+            <Image id={image} key={image} containerRef={testRef} />
+        ))}
+        <motion.div className="progress" style={{ scaleX }} />
+        </Box>
+    );
 }
 
-export default Projects;
+export default Gallery;
