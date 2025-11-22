@@ -1,11 +1,14 @@
 {
   "files": {
-    "main.css": "/Website/static/css/main.63664c36.css",
-    "main.js": "/Website/static/js/main.dcf99ddb.js",
-    "static/js/453.bb828c5d.chunk.js": "/Website/static/js/453.bb828c5d.chunk.js",
+    "main.css": "/Website/static/css/main.9a5a71d3.css",
+    "main.js": "/Website/static/js/main.14ac9bf1.js",
+    "static/js/453.b03e3c98.chunk.js": "/Website/static/js/453.b03e3c98.chunk.js",
+    "static/media/SunnyFuji.jpg": "/Website/static/media/SunnyFuji.8034355433f4277f5205.jpg",
     "static/media/Nature_Image1.jpg": "/Website/static/media/Nature_Image1.f7538992cc86a150e900.jpg",
     "static/media/Arms_Crossed_Talk.gif": "/Website/static/media/Arms_Crossed_Talk.a37d158fe40d07c5f7c9.gif",
+    "static/media/VR_Menu.gif": "/Website/static/media/VR_Menu.cbb2d6e4f59ab2ebba50.gif",
     "static/media/Read_Talk.gif": "/Website/static/media/Read_Talk.2d8bcb33191b33135b3c.gif",
+    "static/media/VR_Setting.png": "/Website/static/media/VR_Setting.21908c24c7590cae4b52.png",
     "static/media/Point_Talk.gif": "/Website/static/media/Point_Talk.95ffa8cec042c1e8e2a4.gif",
     "static/media/judge.png": "/Website/static/media/judge.883622ba52ee3503eab1.png",
     "static/media/Arms_Crossed.gif": "/Website/static/media/Arms_Crossed.be95295897c31f221bde.gif",
@@ -18,10 +21,12 @@
     "static/media/SelfIcon.jpg": "/Website/static/media/SelfIcon.8ea1745ea7c0ae77ade7.jpg",
     "static/media/Point_Start.gif": "/Website/static/media/Point_Start.2c31bff328208e5f892e.gif",
     "static/media/Slam_Talk.gif": "/Website/static/media/Slam_Talk.1481dcbca4e96ca7e2ba.gif",
+    "static/media/VR_Tutorial.png": "/Website/static/media/VR_Tutorial.9c16c801ea6d124fa2bc.png",
     "static/media/background1.jpg": "/Website/static/media/background1.0d90e7ba794ecfbfcd30.jpg",
     "static/media/background2.jpg": "/Website/static/media/background2.97a653c51bd2b720d1dd.jpg",
     "static/media/Smirk_Talk.gif": "/Website/static/media/Smirk_Talk.ef0b785b40f2ea6ebd9a.gif",
     "static/media/Think_Stand.gif": "/Website/static/media/Think_Stand.4d4b6707292f43aa7114.gif",
+    "static/media/Buzz_HomeScreen.jpg": "/Website/static/media/Buzz_HomeScreen.3e6d9ae51daadec12119.jpg",
     "static/media/1.jpg": "/Website/static/media/1.5c7dcdb1b726915d14ac.jpg",
     "static/media/2.jpg": "/Website/static/media/2.5c7dcdb1b726915d14ac.jpg",
     "static/media/3.jpg": "/Website/static/media/3.5c7dcdb1b726915d14ac.jpg",
@@ -29,19 +34,20 @@
     "static/media/5.jpg": "/Website/static/media/5.5c7dcdb1b726915d14ac.jpg",
     "static/media/Stand_Talk.gif": "/Website/static/media/Stand_Talk.d37592debfd2ea1b7a4d.gif",
     "static/media/room.jpg": "/Website/static/media/room.bc29f0ba5215479092bd.jpg",
-    "static/media/window-open-transparent.png": "/Website/static/media/window-open-transparent.0b7811d91f3be2f9014e.png",
+    "static/media/VR_InGame.jpg": "/Website/static/media/VR_InGame.a6965c9e3c6034303a25.jpg",
     "static/media/Think_Talk.gif": "/Website/static/media/Think_Talk.f16422ed2fd0407a554f.gif",
     "static/media/Cornered.gif": "/Website/static/media/Cornered.d705f91a4cf4a5edead4.gif",
     "static/media/desk1.png": "/Website/static/media/desk1.8800f9f73a4851fb4f7d.png",
     "static/media/desk2.png": "/Website/static/media/desk2.5a5e0dfa3b8a033ae26f.png",
     "static/media/Title.png": "/Website/static/media/Title.da045103f6b6557fe615.png",
+    "static/media/Buzz_LoginScreen.jpg": "/Website/static/media/Buzz_LoginScreen.dc924b156603f1904042.jpg",
     "index.html": "/Website/index.html",
-    "main.63664c36.css.map": "/Website/static/css/main.63664c36.css.map",
-    "main.dcf99ddb.js.map": "/Website/static/js/main.dcf99ddb.js.map",
-    "453.bb828c5d.chunk.js.map": "/Website/static/js/453.bb828c5d.chunk.js.map"
+    "main.9a5a71d3.css.map": "/Website/static/css/main.9a5a71d3.css.map",
+    "main.14ac9bf1.js.map": "/Website/static/js/main.14ac9bf1.js.map",
+    "453.b03e3c98.chunk.js.map": "/Website/static/js/453.b03e3c98.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.63664c36.css",
-    "static/js/main.dcf99ddb.js"
+    "static/css/main.9a5a71d3.css",
+    "static/js/main.14ac9bf1.js"
   ]
 }
