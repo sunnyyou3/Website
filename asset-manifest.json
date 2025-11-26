@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Website/static/css/main.9a5a71d3.css",
-    "main.js": "/Website/static/js/main.14ac9bf1.js",
+    "main.css": "/Website/static/css/main.5d55089a.css",
+    "main.js": "/Website/static/js/main.16b54f93.js",
     "static/js/453.b03e3c98.chunk.js": "/Website/static/js/453.b03e3c98.chunk.js",
     "static/media/SunnyFuji.jpg": "/Website/static/media/SunnyFuji.8034355433f4277f5205.jpg",
     "static/media/Nature_Image1.jpg": "/Website/static/media/Nature_Image1.f7538992cc86a150e900.jpg",
@@ -32,6 +32,7 @@
     "static/media/3.jpg": "/Website/static/media/3.5c7dcdb1b726915d14ac.jpg",
     "static/media/4.jpg": "/Website/static/media/4.5c7dcdb1b726915d14ac.jpg",
     "static/media/5.jpg": "/Website/static/media/5.5c7dcdb1b726915d14ac.jpg",
+    "static/media/Buzz_AdminConsole.png": "/Website/static/media/Buzz_AdminConsole.faac05ec587b386a24f3.png",
     "static/media/Stand_Talk.gif": "/Website/static/media/Stand_Talk.d37592debfd2ea1b7a4d.gif",
     "static/media/room.jpg": "/Website/static/media/room.bc29f0ba5215479092bd.jpg",
     "static/media/VR_InGame.jpg": "/Website/static/media/VR_InGame.a6965c9e3c6034303a25.jpg",
@@ -42,12 +43,12 @@
     "static/media/Title.png": "/Website/static/media/Title.da045103f6b6557fe615.png",
     "static/media/Buzz_LoginScreen.jpg": "/Website/static/media/Buzz_LoginScreen.dc924b156603f1904042.jpg",
     "index.html": "/Website/index.html",
-    "main.9a5a71d3.css.map": "/Website/static/css/main.9a5a71d3.css.map",
-    "main.14ac9bf1.js.map": "/Website/static/js/main.14ac9bf1.js.map",
+    "main.5d55089a.css.map": "/Website/static/css/main.5d55089a.css.map",
+    "main.16b54f93.js.map": "/Website/static/js/main.16b54f93.js.map",
     "453.b03e3c98.chunk.js.map": "/Website/static/js/453.b03e3c98.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a5a71d3.css",
-    "static/js/main.14ac9bf1.js"
+    "static/css/main.5d55089a.css",
+    "static/js/main.16b54f93.js"
   ]
 }
