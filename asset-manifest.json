@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Website/static/css/main.5d55089a.css",
-    "main.js": "/Website/static/js/main.c31d9c37.js",
+    "main.css": "/Website/static/css/main.b8874ece.css",
+    "main.js": "/Website/static/js/main.f3801b93.js",
     "static/js/453.b03e3c98.chunk.js": "/Website/static/js/453.b03e3c98.chunk.js",
     "static/media/SunnyFuji.jpg": "/Website/static/media/SunnyFuji.8034355433f4277f5205.jpg",
     "static/media/Nature_Image1.jpg": "/Website/static/media/Nature_Image1.f7538992cc86a150e900.jpg",
@@ -25,6 +25,7 @@
     "static/media/background1.jpg": "/Website/static/media/background1.0d90e7ba794ecfbfcd30.jpg",
     "static/media/background2.jpg": "/Website/static/media/background2.97a653c51bd2b720d1dd.jpg",
     "static/media/Smirk_Talk.gif": "/Website/static/media/Smirk_Talk.ef0b785b40f2ea6ebd9a.gif",
+    "static/media/sunny.png": "/Website/static/media/sunny.aa97a1e80cdbf9752c0d.png",
     "static/media/Think_Stand.gif": "/Website/static/media/Think_Stand.4d4b6707292f43aa7114.gif",
     "static/media/Buzz_HomeScreen.jpg": "/Website/static/media/Buzz_HomeScreen.3e6d9ae51daadec12119.jpg",
     "static/media/1.jpg": "/Website/static/media/1.5c7dcdb1b726915d14ac.jpg",
@@ -43,12 +44,12 @@
     "static/media/Title.png": "/Website/static/media/Title.da045103f6b6557fe615.png",
     "static/media/Buzz_LoginScreen.jpg": "/Website/static/media/Buzz_LoginScreen.dc924b156603f1904042.jpg",
     "index.html": "/Website/index.html",
-    "main.5d55089a.css.map": "/Website/static/css/main.5d55089a.css.map",
-    "main.c31d9c37.js.map": "/Website/static/js/main.c31d9c37.js.map",
+    "main.b8874ece.css.map": "/Website/static/css/main.b8874ece.css.map",
+    "main.f3801b93.js.map": "/Website/static/js/main.f3801b93.js.map",
     "453.b03e3c98.chunk.js.map": "/Website/static/js/453.b03e3c98.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d55089a.css",
-    "static/js/main.c31d9c37.js"
+    "static/css/main.b8874ece.css",
+    "static/js/main.f3801b93.js"
   ]
 }
